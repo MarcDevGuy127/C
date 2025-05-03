@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746236630 source:c:\users\marcelo silva\desktop\codeblocks_projetos\alocacaomemoria_teste2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
